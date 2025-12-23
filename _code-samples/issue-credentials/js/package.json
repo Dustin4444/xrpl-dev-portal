@@ -14,7 +14,7 @@
     "@xrplf/isomorphic": "^1.0.1",
     "dotenv": "^16.4.7",
     "express": "^5.1.0",
-    "inquirer": "^12.5.2",
+    "inquirer": "^13.0.1",
     "morgan": "^1.10.0",
     "xrpl": "^4.2.5"
   }
