@@ -259,6 +259,7 @@ The following RippleX teams and GitHub users contributed to this release:
 - RippleX Docs
 - RippleX Product
 - @Kassaking7
+- @TimothyBanks
 - @dangell7
 - @marek-foss-neti
 - @solunolab
